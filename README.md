@@ -13,8 +13,8 @@ This project aims to detect weapons in real-time through cameras and notify auth
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jztchl/realtime-weapon-detection.git
-   cd realtime-weapon-detection
+   git clone https://github.com/TrinadhKatlagunta/Real_Time_Weapon_Detection.git
+   cd Real_Time_Weapon_Detection
    ```
 
 2. **Install Dependencies**
